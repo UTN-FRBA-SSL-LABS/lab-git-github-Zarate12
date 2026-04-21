@@ -13,7 +13,8 @@ int restar(int a, int b) {
 }
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
-// La funcion multiplicar toma dos variables, en este caso, a y b y las multiplica para luego devolvernos el resultado
+
+//Realiza el producto de a * b, y devuelve el resultado.
 int multiplicar(int a, int b) {
     return a*b; /* TODO: implementar */git 
 }
