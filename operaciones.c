@@ -16,7 +16,7 @@ int restar(int a, int b) {
 
 //Realiza el producto de a * b, y devuelve el resultado.
 int multiplicar(int a, int b) {
-    return a*b; /* TODO: implementar */git 
+    return a*b; /* TODO: implementar */
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
